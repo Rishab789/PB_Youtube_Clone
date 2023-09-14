@@ -98,7 +98,7 @@ const Header = () => {
 
         </div>
         <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
-          <img src="avatars.dicebear.com/api/croodles/stefan.svg" />
+          <img src="avatars.dicebear.com/api/croodles/stefan.svg" alt="avatar"/>
         </div>
       </div>
 
