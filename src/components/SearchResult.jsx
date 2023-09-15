@@ -14,8 +14,9 @@ const SearchResult = () => {
   useEffect(()=>{
     document.getElementById('root').classList.remove('custom-h');
     fetchSearchResults();
+   
     
-
+ // eslint-disable-next-line
   },[searchQuery]) ;
 
     const fetchSearchResults = ()=>{
